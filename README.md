@@ -1,12 +1,8 @@
-# SPPU Discrete Value Modelling (DVM) Practicals
+# SPPU Data Visualization and Modelling (DVM) Practicals
 
-### 📚 Course: Discrete Value Modelling (DVM) | Savitribai Phule Pune University (SPPU)
+### 📚 Course: Data Visualization and Modelling (DVM) | Savitribai Phule Pune University (SPPU)
 
-This repository contains solutions to the practical exercises for the **Discrete Value Modelling** course as per the syllabus of **Savitribai Phule Pune University (SPPU)**.
-
----
-
-## 📁 Repository Structure
+This repository contains solutions to the practical exercises for the **Data Visualization and Modelling (DVM)** course as per the syllabus of **Savitribai Phule Pune University (SPPU)**.
 
 ---
 
@@ -30,15 +26,8 @@ This repository contains solutions to the practical exercises for the **Discrete
    python -m venv dvm_env
    source dvm_env/bin/activate   # On Windows: dvm_env\Scripts\activate
    ```
-3. **Install Required Dependencies**:
 
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-   _(If `requirements.txt` is not available, manually install packages like NumPy, Pandas, and Scikit-learn)_
-
-4. **Run the Notebooks**:
+3. **Run the Notebooks**:
    Open the desired practical file in Jupyter Notebook or Google Colab and execute the cells.
 
 ---
